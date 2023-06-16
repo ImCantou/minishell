@@ -1,0 +1,1 @@
+This file should contains all files ".o" needed to run minishell when they exist.
